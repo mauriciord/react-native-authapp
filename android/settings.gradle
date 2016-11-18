@@ -1,0 +1,3 @@
+rootProject.name = 'authapp'
+
+include ':app'
